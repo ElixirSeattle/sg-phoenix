@@ -1,5 +1,5 @@
 # Programming Phoenix study group
-[![Join the chat at https://gitter.im/SeaRbSg/elixir](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SeaRbSg/elixir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/ElixirSeattle/sg-phoenix](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ElixirSeattle/sg-phoenix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Book
 [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
@@ -15,7 +15,12 @@ week | chapters   | pages | comments
 05/09/16  | Intro and 1 | ? |
 05/16/16  | Chapter 2 | |
 
+## What to do with this repository
+
+Create a directory in this repository with your username. Push your own work and exercises into that directory. We'll use this repo to share our work and use it for discussion.
+
 ## Rebase, Don't Merge
+
 Please put this in your `~/.gitconfig` (or `.git/config` local to your
 cloned repo if you don't want to set it globally) to avoid creating
 merge commits on top of others work:
