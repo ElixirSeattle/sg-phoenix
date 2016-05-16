@@ -12,8 +12,16 @@ week | chapters   | pages | comments
 -----|------------|-------|---------
 04/11/16  | Elixir Hack Night | |
 04/25/16  | Elixir Hack Night | |
-05/09/16  | Intro and 1 | ? |
-05/16/16  | Chapter 2 | |
+05/09/16  | Chapter 1 | 12 |
+05/16/16  | Chapter 2 | 21 |
+05/23/16  | Chapter 3 & 4 | 29 |
+05/30/16  | Chapter 5 | 20 |
+06/06/16  | Chapter 6 & 7 | 34 |
+06/13/16  | Chapter 8 & 9 | 38 |
+06/20/16  | Chapter 10 | 25 |
+06/27/16  | Chapter 11 | 28 |
+07/04/16  | Independence Day - no meetup | 0 |
+07/11/16  | Chapter 12, 13 & 14 | 34 |
 
 ## What to do with this repository
 
