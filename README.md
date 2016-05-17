@@ -20,7 +20,7 @@ week | chapters   | pages | comments
 06/13/16  | WWDC Week - no meetup | |
 06/20/16  | Chapter 7 & 8 | 44 |
 06/27/16  | Chapter 9 & 10 | 39 |
-07/04/16  | Independence Day - no meetup | 0 |
+07/04/16  | Independence Day - no meetup | |
 07/11/16  | Chapter 11 & 12 | 37 |
 07/18/16  | Chapter 13 & 14 | 25 |
 
