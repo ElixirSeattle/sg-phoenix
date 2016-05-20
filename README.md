@@ -5,7 +5,7 @@
 [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 
 ## Location
-We meet Mondays at 7 PM in the back room of [Espresso Vivace](https://www.google.com/maps/place/Espresso+Vivace+Roasteria/@47.6238267,-122.322875,17z/data=!3m1!4b1!4m5!3m4!1s0x5490152ded7b27e9:0x25ea205bb393c770!8m2!3d47.6238267!4d-122.3206863)
+We meet Mondays at 7 PM at [Substantial](https://www.google.com/maps/place/Substantial/@47.6154813,-122.3224841,17z/data=!3m1!4b1!4m5!3m4!1s0x54906ad404bc6819:0xec15a3c02dc792f5!8m2!3d47.6154813!4d-122.3202954)
 
 ## Study Schedule
 week | chapters   | pages | comments
