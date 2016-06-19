@@ -11,6 +11,12 @@ defmodule Rumbl.User do
     timestamps
   end
 
+  def update_password(username, password) do
+    user = Rumbl.Repo.get_by!(__MODULE__, %{"username": username})
+    changeset = Rumbl.User.registration_changeset(user, %{"password": password})
+    Rumbl.Repo.update(changeset)
+  end
+
   def changeset(model, params \\ :empty) do
     model
     |> cast(params, ~w(name username), [])
