@@ -16,15 +16,14 @@ let Player = {
       width: "420",
       videoId: playerId,
       events: {
-        "onReady": (event => onReady(event)),
-        "onStateChange": (event => this.onPlayerStateChange(event))
+        "onReady": (event => onReady(event) ),
+        "onStateChange": (event => this.onPlayerStateChange(event) )
       }
     })
   },
 
   onPlayerStateChange(event) {},
-  getCurrentTime() { return Math.floor(this.player.getCurrentTime() * 1000) },
-  seekTo(millsec) { return this.player.seekTo(millsec / 1000) }
+  getCurrentTime(){ return Math.floor(this.player.getCurrentTime() * 1000) },
+  seekTo(millsec){ return this.player.seekTo(millsec / 1000) }
 }
-
 export default Player
