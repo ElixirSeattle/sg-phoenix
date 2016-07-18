@@ -10,8 +10,6 @@ defmodule Rumbl do
       # Start the endpoint when the application starts
       supervisor(Rumbl.Endpoint, []),
 
-      supervisor(Rumbl.InfoSys.Supervisor, []),
-
       # Start the Ecto repository
       supervisor(Rumbl.Repo, []),
     ]
